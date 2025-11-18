@@ -14,12 +14,12 @@
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.10.0",
-    "@prisma/client": "^6.13.0",
+    "@prisma/client": "^6.19.0",
     "bcryptjs": "^3.0.2",
     "lucide-react": "^0.534.0",
-    "next": "15.4.5",
+    "multer": "^2.0.2",
+    "next": "^15.5.6",
     "next-auth": "^4.24.11",
-    "prisma": "^6.13.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-hot-toast": "^2.5.2",
@@ -30,6 +30,7 @@
     "@tailwindcss/postcss": "^4",
     "@types/node": "24.9.1",
     "@types/react": "19.2.2",
+    "prisma": "^6.19.0",
     "tailwindcss": "^4",
     "typescript": "5.9.3"
   }

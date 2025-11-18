@@ -34,7 +34,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/profile/page.jsx", "app/api/upload-profile/route.js"  ],
   "exclude": [
     "node_modules"
   ]
